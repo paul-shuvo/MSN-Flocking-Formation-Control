@@ -42,10 +42,10 @@ For example, $c_{1}^{\alpha}$ is denoted as `C1_ALPHA` (all capital as it's a co
 
 #### Algorithm 1:
 
-<img src='alg_img\alg1.JPG' width=500px><br>
-<img src='alg_img\alg11.JPG' width=500px><br>
-<img src='alg_img\alg12.JPG' width=500px><br>
-<img src='alg_img\alg13.JPG' width=500px><br>
+<img src='alg_img\alg1.jpg' width=500px><br>
+<img src='alg_img\alg11.jpg' width=500px><br>
+<img src='alg_img\alg12.jpg' width=500px><br>
+<img src='alg_img\alg13.jpg' width=500px><br>
 
 #### Result
 <img src='alg_img\msn_1.png' width=500px><br>
@@ -61,7 +61,7 @@ For example, $c_{1}^{\alpha}$ is denoted as `C1_ALPHA` (all capital as it's a co
 
 #### Algorithm 2 for Case 2:
 
-<img src='alg_img\alg2.JPG' width=500px><br>
+<img src='alg_img\alg2.jpg' width=500px><br>
 
 #### Plots
 - Plots the flocking of the nodes.
@@ -83,7 +83,7 @@ For example, $c_{1}^{\alpha}$ is denoted as `C1_ALPHA` (all capital as it's a co
 
 #### Algorithm 2 for Case 3:
 
-<img src='alg_img\alg21.JPG' width=500px><br>
+<img src='alg_img\alg21.jpg' width=500px><br>
 
 #### Plots
 - Plots the flocking of the nodes following the target (Sine wave trajectory).
@@ -105,7 +105,7 @@ For example, $c_{1}^{\alpha}$ is denoted as `C1_ALPHA` (all capital as it's a co
 
 #### Algorithm 2 for Case 3 (Same equation, change the values to make it a circular trajectory):
 
-<img src='alg_img\alg21.JPG' width=500px><br>
+<img src='alg_img\alg21.jpg' width=500px><br>
 
 #### Plots
 - Plots the flocking of the nodes following the target (Circular trajectory).
@@ -128,9 +128,9 @@ For example, $c_{1}^{\alpha}$ is denoted as `C1_ALPHA` (all capital as it's a co
 
 #### Algorithm 3:
 
-<img src='alg_img\alg3.JPG' width=500px><br>
-<img src='alg_img\alg31.JPG' width=500px><br>
-<img src='alg_img\alg32.JPG' width=500px><br>
+<img src='alg_img\alg3.jpg' width=500px><br>
+<img src='alg_img\alg31.jpg' width=500px><br>
+<img src='alg_img\alg32.jpg' width=500px><br>
 
 #### Plots
 - Plots the flocking of the nodes following the target, avoiding obstacles.
