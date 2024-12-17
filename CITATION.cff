@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - name: "Shuvo Kumar Paul"
+title: "MSN-Flocking-Formation-Control: An implementation of multi-agent flocking formation control with specific formations that can follow a target without collision and can avoid obstacles"
+date-released: "2021-02-02"
+language: "en"
+type: "software"
