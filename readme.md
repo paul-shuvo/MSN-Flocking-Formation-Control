@@ -2,6 +2,25 @@
 
 **This is an implementation of the MSN Flocking Formation Control presented in the paper [_Flocking for Multi-Agent Dynamic Systems: Algorithms and Theory_](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.121.7027&rep=rep1&type=pdf)**.
 
+## Citation
+
+### BibTex
+
+```bib
+@software{Shuvo_Kumar_Paul_MSN-Flocking-Formation-Control_An_implementation_2021,
+author = {{Shuvo Kumar Paul}},
+month = feb,
+title = {{MSN-Flocking-Formation-Control: An implementation of multi-agent flocking formation control with specific formations that can follow a target without collision and can avoid obstacles}},
+year = {2021}
+}
+```
+
+### APA
+
+```
+Shuvo Kumar Paul. (2021). MSN-Flocking-Formation-Control: An implementation of multi-agent flocking formation control with specific formations that can follow a target without collision and can avoid obstacles [Computer software]
+```
+
 ## Getting started
 
 ```shell
